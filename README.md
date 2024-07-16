@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexjohnson-hub
+- 👋 Hi, I’m @alexjohnson
 - 👀 I’m interested in development.
 - 🌱 I’m currently learning to develop my skills.
 - 💞️ I’m looking to collaborate on github and other social media.
